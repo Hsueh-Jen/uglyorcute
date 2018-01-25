@@ -1,0 +1,47 @@
+/* 在這邊寫css */
+
+body {
+    font-family: Microsoft jhenghei;
+}
+
+/* visited link */
+#footer a:visited {
+    color: lightgray;
+}
+
+/* mouse over link */
+#footer  a:hover {
+    color: white;
+}
+
+/* selected link */
+#footer  a:active {
+    color: lightgray;
+}
+
+.flag {
+    height: 2.5rem;
+    vertical-align: middle;
+    margin-bottom: 0.5em;
+}
+
+.bg-deepgreen{
+    background:#009f78;
+}
+
+.bg-green{
+    background:#00cc99
+}
+
+.strokeme
+{
+    font-weight: 900;
+    -webkit-text-stroke: 1px black;
+    color: white;
+    text-shadow:
+        3px 3px 0 #000,
+      -1px -1px 0 #000,  
+       1px -1px 0 #000,
+       -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
