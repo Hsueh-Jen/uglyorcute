@@ -1,2 +1,3 @@
 # uglyorcute
-謎樣的醜萌人-廣告網站
+
+[https://hsueh-jen.github.io/uglyorcute/](https://hsueh-jen.github.io/uglyorcute/)

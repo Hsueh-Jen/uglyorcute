@@ -25,6 +25,12 @@ body {
     margin-bottom: 0.5em;
 }
 
+.icon {
+    height: 2.5rem;
+    vertical-align: middle;
+    margin-bottom: 0.2em;
+}
+
 .bg-deepgreen{
     background:#009f78;
 }
